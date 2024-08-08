@@ -1,161 +1,372 @@
-1,之,tśi,の
-2,不,"pyu, pyux, pyut",not
-3,也,jriax,enim
-4,子,tsix,"child, son"
-5,而,ńi,"and, you"
-6,曰,hywat,say
-7,以,jix,abl.
-8,其,gi,"he, ?"
-9,人,ńyin,man
-10,於,yo,"in, at"
-11,為,hrywe,do
-12,公,kung,public
-13,者,tśyax,"emph., this"
-14,有,hywux,"have, there is"
-15,君,kyun,lord
-16,無,mywu,不有
-17,王,hywang,king
-18,大,"dayh, day",big
-19,則,tsok,rule
-20,乎,hwu,"in, at; ?"
-21,侯,how,lord
-22,是,dźyex,"this, is"
-23,夫,pyu,"man, husband"
-24,可,khax,can
-25,于,?,?
-26,故,kwoh,old
-27,使,šix,"order, use"
-28,矣,hix,了
-29,晉,tsyinh,advance
-30,所,šiox,place
-31,天,then,"sky, heaven"
-32,與,yiox,give
-33,何,ha,what?
-34,國,kwok,country
-35,齊,dzey,"even, same"
-36,吾,ngwu,I
-37,將,tsyang,going to?
-38,師,šryi,army
-39,知,ťie,know
-40,月,ngywat,moon
-41,焉,"hryen, ‘ryen, ‘yan",how?
-42,楚,"tšhiox, h","cane, pain"
-43,下,"hrax, hrah",down
-47,我,ngax,I
-50,臣,dźyin,"slave, minister"
-51,行,hrang,go
-53,言,ngyan,say
-54,三,sam,three
-56,道,dawx,"way, Dao"
-57,必,pyit,surely
-59,民,myin,people
-62,一,yit,one
-66,死,sryix,die
-67,見,kenh,see
-71,十,dźyip,ten
-72,非,pwiy,is not
-73,聞,myun,listen
-74,二,ńyih,two
-75,命,mriangh,"life, destiny"
-77,年,nen,year
-78,乃,noyx,be
-81,出,tśhywit,"leave, exit"
-84,氏,dźiex,family
-86,在,"dzoyx, h","exist, be alive"
-89,今,kryim,now
-91,亦,yyek,also
-94,未,mwuy,not yet
-95,文,myun,writing
-98,入,ńyip,enter
-100,用,yyungh,use
-101,來,loy,come
-102,上,dźyangh,up
-103,善,dźienx,good
-104,士,džix,"man, scholar"
-108,問,mywunh,ask
-109,物,mywut,thing
-110,日,ńyit,day
-111,五,ngwux,five
-113,中,ťyung,"in, middle"
-114,父,byux,father
-115,心,syim,heart
-118,亡,mwyang,"escape, lose"
-126,秋,tshyuw,autumn
-127,食,źik,eat
-128,四,syih,four
-129,小,syewx,small
-130,明,mryang,bright
-131,孔,khungx,"hole, Confucius"
-134,且,tshyax,this
-135,樂,ngrok,music
-136,卒,tswot,soldier
-138,惡,‘ak,bad
-140,取,"tshyux, tshowx",take
-141,仲,ďywungh,mid-
-143,正,tśiengh,"straight, right"
-148,百,prak,hundred
-149,冬,twong,winter
-152,猶,"yyuw, kyuwh, yyuwh",as if
-160,仁,nyin,virtue
-168,門,mwon,gate
-182,令,"lyeng, h, lengh","order, make someone do something"
-189,平,bryang,level
-203,方,pywang,"side, direction"
-205,世,śyeyh,generation
-206,安,an,"calm, safe"
-237,九,kyuw,nine
-239,高,kaw,tall
-280,北,pok,north
-283,八,pret,eight
-292,西,sey,west
-309,母,mowx,mother
-317,里,lix,"li, neighbourhood"
-324,耳,ńix,ear
-330,少,śyewx,"small, few"
-334,衣,iy,clothes
-337,忠,ťywung,loyal
-350,本,pwonx,source
-366,合,hop,"close, join"
-383,木,muk,"tree, wood"
-384,久,kywu,long time
-389,千,tshen,thousand
-396,性,siengh,nature
-420,爾,nyex,you
-427,火,xwax,fire
-430,風,pywung,wind
-438,私,syi,"self, private"
-445,玉,ngyuk,jade
-446,州,tśyu,islet
-449,初,tšhio,"first, start"
-505,氣,khyih,air
-509,目,mywuk,eye
-510,勿,mywut,"don’t, not"
-514,弱,ńyak,weak
-521,雨,hyux,rain
-588,舟,tśyuw,boat
-620,擊,kek,strike
-644,金,kryim,gold
-646,災,tsoy,disaster
-647,全,dzywen,complete
-654,江,krong,"Yangtze, river"
-657,口,khowx,mouth
-679,狐,hwu,fox
-688,面,myenh,face
-700,工,kung,work
-731,回,hwoy,turn
-774,卯,mraux,rabbit (earthly branch)
-790,凶,xyung,bad omen
-854,夕,zyek,"evening, night"
-855,京,kriang,capital
-856,狗,kowx,dog
-899,姦,kran,evil
-904,呼,xuo,"exhale, shout, call"
-905,鬥,towh,fight
-913,放,pywangh,release
-919,句,kyoh,sentence
-925,甘,kam,sweet
-945,毛,"maw, h","hair, fur"
-967,早,tsawx,early
-989,井,tsyengx,a well
-997,論,lwon (h),discuss
-1000,農,nwong,cultivate
+之,tśi,の
+不,piu; piux; piut,not
+也,yiax,enim
+子,tsix,child; son
+而,ńi,and; you
+曰,hywat,say
+以,yix,abl.
+其,gi,he; ?
+人,nyin,man
+於,yo,in; at
+為,hrywe,do
+公,kung,public
+者,tśyax,emph.; this
+有,hyux,have; there is
+君,kyun,lord
+無,my,不有
+王,hywang,king
+大,dayh; day,big
+則,tsok,rule
+乎,hwu,in; at; ?
+侯,how,lord
+是,dźyex,this; is
+夫,pyu,man; husband
+可,khax,can
+于,?,?
+故,kwoh,old
+使,šix,order; use
+矣,hix,了
+晉,tsyinh,"advance, Jin (state)"
+所,šiox,place
+天,then,sky; heaven
+與,yiox,"give, and"
+何,ha,what?
+國,kwok,country
+齊,dzey,"even; same, Qi (state)"
+吾,ngwu,I
+將,tsyang,going to?
+師,šryi,army
+知,ťie,know
+月,ngywat,moon
+焉,hryen; ‘ryen; ‘yan,how?
+楚,tšhiox; h,cane; pain; Chu (state)
+下,hrax; hrah,down
+謂,hwiyh,"sat, tell"
+我,ngax,I
+臣,dźyin,slave; minister
+行,hrang,go
+鄭,ďyengh,Zheng (state)
+言,ngyan,say
+三,sam,three
+道,dawx,way; Dao
+必,pyit,surely
+民,myin,people
+事,džih,thing
+自,dzyih,self
+一,yit,one
+然,ńyen,thus
+及,gryip,reach
+至,tśyih,"arrive, to"
+死,sryix,die
+見,kenh,see
+此,tshyex,"this, here"
+生,šrang(h),"live, life,"
+伐,bywat,kill
+十,dźyip,ten
+非,pwiy,is not
+聞,myun,listen
+二,ńyih,two
+命,mriangh,life; destiny
+成,dźyeng,"succeed, become"
+年,nen,year
+乃,noyx,be
+德,tok,virtue
+出,tśhywit,leave; exit
+氏,dźiex,family
+在,dzoyx; h,exist; be alive
+今,kryim,now
+先,sen,first
+亦,jyek,also
+禮,jywuk,wish
+後,"howx, h",behind
+未,muy,not yet
+文,myun,writing
+殺,šret,kill
+入,ńyip,enter
+用,jywungh,use
+來,loy,come
+上,dźyangh,up
+善,dźienx,good
+士,džix,man; scholar
+皆,krey,all
+夏,hrax,"Xia (dynasty), great"
+問,myunh,ask
+物,myut,thing
+日,ńyit,day
+五,ngwux,five
+陳,ďryin,"exhibit, display"
+中,ťyung,in; middle
+父,bywux,father
+心,syim,heart
+盟,mryang,"swear, oath"
+又,hyuh,again
+亡,mwyang,escape; lose
+孟,mrangh,"eldest brother, Mencius"
+相,syang,mutually
+周,tśyu,"circle, Zhou"
+春,tśhywin,spring
+秋,tshyu,autumn
+食,źik,eat
+四,syih,four
+小,syewx,small
+明,mryang,bright
+孔,khungx,hole; Confucius
+立,lyip,stand
+且,tshyax,this
+樂,ngrok,music
+卒,tswot,soldier
+惡,‘ak,bad
+朝,ťryew,morning
+取,tshywux; tshowx,take
+仲,ďyungh,mid-
+已,"jix, h",stop
+正,tśiengh,straight; right
+失,śyit,"lose, fail"
+地,dyih,earth
+義,ngryeh,right conduct
+百,prak,hundred
+冬,twong,winter
+弗,pyut,not
+猶,jyu; kyuh; jyuh,as if
+秦,dzyin,Qin
+足,tsywuk,foot
+无,mywu,無
+仁,nyin,virtue
+時,dźi,"time, hour"
+馬,mrax,horse
+書,śyo,"book, script"
+門,mwon,gate
+多,ta,many
+亂,lwanh,"disorder, chaos"
+名,myeng,name
+同,dung,same
+主,tśywux,"owner, lord"
+令,lyeng; h; lengh,order; make someone do something
+好,xawx,good
+平,bryang,level
+聖,śiengh,holy
+難,nan,difficult
+司,si,control
+六,lyuk,six
+始,śix,start
+利,lyih,profit
+軍,kyun,army
+止,stop,tśix
+方,pywang,side; direction
+世,śyeyh,generation
+安,an,calm; safe
+己,kix,"self, 6th heavenly stem"
+長,ďyang,long
+外,ngwayh,outside
+萬,mywanh,10000
+陽,jyang,yang
+七,tshyit,seven
+女,ňyox,woman
+山,šren,mountain
+家,kra,home
+田,den,field
+詩,śi,poem
+車,tśhya,car
+右,hyux,right
+尹,jywin,"govern, oversee"
+九,kyux,nine
+神,źyin,"god, spirit"
+高,kaw,tall
+南,nom,south
+作,"tswoh, tsah,tsak",work
+水,śrywix,water
+易,jyeh,easy
+東,tung,east
+唯,jywi,be
+宮,kyung,"house, palace"
+左,tsax,left
+內,nwoyh,inside
+說,śywet,"say, speak"
+弟,"deix, h",younger brother
+怒,"nwuh, x",anger
+患,hrwanh,"disease, worry"
+功,kung,achievement
+召,ďryewh,decree
+老,lawx,old
+志,tśih,"will, determination"
+聲,śieng,"sound, voice"
+北,pok,north
+八,pret,eight
+邑,ryip,"state, capital, city"
+形,heng,form
+獲,hrwek,catch
+愛,oyh,love
+兵,pryang,"weapon, army"
+西,sey,west
+待,doyx,wait
+官,kwan,gov. official
+忘,mywangh,forget
+因,yin,follow
+憂,yu,sad
+遠,hywanx,far
+或,hwok,"or, maybe"
+母,mowx,mother
+逆,hywanx,far
+古,kwux,"past, ancient"
+太,thayh,very
+里,lix,li; neighbourhood
+勝,śing,be able to bear
+耳,ńix,ear
+邪,zria,"wrong, evil"
+少,śyewx,small; few
+獨,duk,"alone, only"
+衣,iy,clothes
+忠,ťyung,loyal
+御,ngjoh,"royal, govern"
+定,dengh,stable
+誰,dźywi,who
+力,lik,"strength, force"
+間,kren,"among, between"
+本,pwonx,source
+狄,dek,Di (people)
+和,hwa,peace
+思,si,think
+美,mryix,beautiful
+教,kraw,teach
+云,hyun,say (quote)
+存,dzwon,exist
+韓,han,
+合,hop,close; join
+姓,siengh,surname
+學,hrok,learn
+石,dźyek,stone
+史,šix,history
+帝,teyh,emperor
+木,muk,tree; wood
+久,kyux,long time
+分,pyun,divide
+千,tshen,thousand
+色,šik,color
+性,siengh,nature
+比,pyix,compare
+簡,krenx,"bamboo slip, letter"
+次,tshyih,"order, next"
+興,xing,"rise, thrive"
+飲,ryim,drink
+望,"mywang, h","see, watch"
+土,thwox,"earth, soil"
+任,ńyimh,"carry, bear, endure"
+加,kra,"put on, add"
+討,thawx,"denounce, attack"
+爾,nyex,you
+元,ngywan,first
+魚,ngyo,fish
+火,xwax,fire
+風,pyung,wind
+強,gyang,strong
+器,khryih,utensil
+私,syi,self; private
+兄,xrywang,elder brother
+玉,ngywuk,jade
+州,tśyu,islet
+初,tšhio,first; start
+酒,tsyux,alcohol
+首,śyux,head
+凡,byam,"every, all"
+犯,byamx,attack
+白,brak,white
+語,ngyox,speak
+友,hyux,friend
+前,dzen,"before, front"
+海,xoyx,ocean
+商,śiang,Shang
+變,prienh,change
+病,briangh,ill
+氣,khyih,air
+目,myuk,eye
+勿,myut,don’t; not
+弱,ńyak,weak
+牛,ngyu,bull
+午,ngwux,"noon, 7th earthly branch"
+雨,hywux,rain
+息,sik,breathe
+惟,jywi,"but, only"
+夜,jryax,night
+歲,syweyh,years old
+林,lyim,grove
+丁,teng,fourth heavenly stem
+陰,"yin, cloudy",ryim
+羊,jyang,sheep
+他,tha,other
+兩,lyangh,two
+丑,ťhyux,2nd earthly branch
+舟,tśyu,boat
+原,nywan,"meadow, source"
+龍,lywung,dragon
+各,kak,each
+經,"keng, h","experience, classics"
+走,"tsowx, h",run
+游,jyu,swim
+鳥,tewx,bird
+擊,kek,strike
+男,nom,male; baron
+干,kan,"concern, ask"
+坐,dzwax,sit
+金,kryim,gold
+災,tsoy,disaster
+全,dzywen,complete
+江,krong,Yangtze; river
+口,khowx,mouth
+音,ryim,sound
+后,"heux, h","queen, (king)"
+恥,ťhix,"humiliate, shame"
+客,khrak,guest
+狐,hwu,fox
+面,myenh,face
+弓,kyung,bow
+工,kung,work
+鳴,mryang,"(animals) cry, call, chirp"
+豹,prawh,"leopard, panther"
+鬼,kuix,"ghost, demon"
+否,pyux,"no, not"
+毋,mywu,don’t
+吏,lih,gov. official
+光,kwang,light
+回,hwoy,turn
+負,byux,"carry, burden"
+羽,hywuh/x,feather
+介,kreih,"be between, assist"
+笑,syewh,laugh
+尸,śyi,corpse
+卯,mraux,rabbit (earthly branch)
+市,dźix,"city, market"
+凶,hywung,bad omen
+肉,ńyuk,meat
+酉,jyux,"alcohol vessel, 12th earthly branch"
+川,tśhywen,river
+肖,syewh,"resemble, imitate"
+手,x,hand
+才,dzoy,"ability, talent"
+侍,dźih,"serve, attendant"
+玄,hwen,"deep, black"
+持,ďi,hold
+寒,han,cold
+鍾,tśywung,alcohol vessel; concentrate
+夕,zyek,evening; night
+京,kriang,capital
+狗,kowx,dog
+赤,tśhyek,red
+並,bengx,"side by side, simultaneously"
+都,twu,"metropolis, capital"
+崩,pong,collapse
+休,xyu,rest
+姦,kran,evil
+呼,xuo,exhale; shout; call
+鬥,towh,fight
+放,pywangh,release
+句,kyoh,sentence
+甘,kam,sweet
+丈,ďyangx,"zhang (measure), gentleman"
+毛,maw; h,hair; fur
+漢,xanh,"Han, milky way"
+早,tsawx,early
+龜,krywi,turtle
+井,tsyengx,a well
+閉,"peyh, pet",close
+論,lwon (h),discuss
+農,nwong,cultivate
