@@ -1,0 +1,15 @@
+# Build artifacts
+*.o
+*.obj
+*.out
+*.exe
+
+# LibreOffice temporary lock files
+.~lock*.ods#
+
+# Editor swap files
+*.swp
+*.swo
+
+# macOS metadata (in case repo is used on macOS)
+.DS_Store
